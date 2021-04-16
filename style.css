@@ -1,0 +1,399 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #4d4d4d;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.nav-bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 0.75rem;
+}
+
+.nav-bar__link {
+  text-decoration: none;
+  color: #4d4d4d;
+  background-color: white;
+}
+
+.nav-bar__logo-txt {
+  font-size: 2rem;
+}
+
+.nav-bar__logo-txt--blue {
+  color: #89a6c2;
+}
+
+.rotas .nav-bar__link {
+  padding: 0 0.1rem;
+}
+
+.fundo-imagem {
+  background: url(assets/img-fundo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.fundo-imagem__card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  min-height: 200px;
+  background-color: rgba(11, 168, 147, 0.692);
+  color: #fafafa;
+  padding: 1rem;
+  margin: 0 1.2rem;
+  border: 1px solid rgba(255, 255, 255, 0.836);
+  border-radius: 5px;
+}
+
+.fundo-imagem__titulo {
+  text-align: center;
+  font-size: 2.5rem;
+  letter-spacing: 0.1rem;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.219);
+}
+
+.fundo-imagem__paragrafo {
+  text-align: center;
+  margin: 0 auto;
+  width: 75%;
+  font-size: 1.5rem;
+  font-weight: 100;
+  letter-spacing: 0.2rem;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.418);
+}
+
+.c-chamadas-texto {
+  text-align: center;
+}
+
+.c-chamadas-texto__titulo {
+  font-size: 2.5rem;
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+  letter-spacing: 0.3rem;
+}
+
+.c-chamadas-texto__paragrafo {
+  letter-spacing: 0.2rem;
+}
+
+.c-chamadas-texto p:last-child {
+  padding-bottom: 2rem;
+}
+
+.quartos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  gap: 3rem;
+  max-width: 90vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.quartos__card {
+  border-bottom: 3px solid #0ba893;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.quartos__link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #4d4d4d;
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+
+.quartos__img {
+  max-width: 100%;
+}
+
+.info {
+  margin: 0 auto;
+}
+
+.info__card {
+  text-align: center;
+}
+
+.info__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 0.3rem;
+  padding: 1rem 0;
+  font-weight: 600;
+}
+
+.info__paragrafo {
+  letter-spacing: 0.1rem;
+  padding: 0 1rem 1rem 1rem;
+}
+
+.info__img {
+  max-width: 100%;
+}
+
+.footer {
+  margin-top: 4rem;
+  background-color: #49997c;
+}
+
+.contato {
+  max-width: 80%;
+  margin: 2rem auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  color: white;
+  border-bottom: 2px solid #38755f;
+}
+
+.contato__title {
+  padding: 1rem 0;
+  font-size: 1.5rem;
+}
+
+.contato__card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.contato a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: white;
+  text-decoration: none;
+}
+
+.contato__icon {
+  padding-right: 1rem;
+}
+
+.copyright {
+  color: white;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+@media (min-width: 900px) {
+  .nav-bar {
+    max-width: 1024px;
+  }
+  .rotas .nav-bar__link {
+    padding: 0 0.75rem;
+  }
+  .fundo-imagem__card {
+    width: 1024px;
+  }
+  .fundo-imagem__titulo {
+    font-size: 3.5rem;
+    letter-spacing: 1rem;
+  }
+  .fundo-imagem__paragrafo {
+    font-size: 2rem;
+  }
+  .c-chamadas-texto__titulo {
+    font-size: 2.5rem;
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+    font-weight: 500;
+    letter-spacing: 0.2rem;
+  }
+  .c-chamadas-texto__paragrafo {
+    line-height: 2.5rem;
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+  }
+  .quartos {
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+  }
+  .quartos img {
+    max-width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .info {
+    max-width: 80%;
+    margin: 0 auto;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (1fr)[2];
+        grid-template-columns: repeat(2, 1fr);
+    -ms-grid-rows: (100px)[2];
+        grid-template-rows: repeat(2, 100px);
+    grid-column-gap: 1rem;
+    grid-row-gap: 2rem;
+  }
+  .info__card {
+    grid-area: span 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    text-align: justify;
+  }
+  .info__title {
+    padding: 0;
+  }
+  .info__paragrafo {
+    font-size: 0.9rem;
+    padding: 0.75rem 1rem 0 0;
+  }
+  .info__img {
+    width: 200px;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .footer {
+    margin-top: 8rem;
+  }
+  .contato {
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    padding: 3rem 0;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  .contato__card {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 600px) {
+  .contato {
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+
+.fundo-imagem-quartos {
+  background: url(assets/img-fundo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.quartos-info {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.quartos-info__title {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.quartos-info__list {
+  display: -ms-grid;
+  display: grid;
+  justify-items: center;
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+  font-size: 1rem;
+  row-gap: 1rem;
+}
+
+@media (max-width: 700px) {
+  .quartos-info__list {
+    -ms-grid-columns: (1fr)[2];
+        grid-template-columns: repeat(2, 1fr);
+    justify-items: start;
+  }
+}
+/*# sourceMappingURL=style.css.map */
