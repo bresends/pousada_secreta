@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="#hammer_and_wrench-Stack">Stack</a> |
-  <a href="#dart-Desarios">Desafios</a> |
+  <a href="#dart-Desafios">Desafios</a> |
   <a href="#information_source-how-to-use">Deploy</a> |
   <a href="#memo-license">Licença</a>
 </p>
