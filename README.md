@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="#hammer_and_wrench-Stack">Stack</a> |
-  <a href="#information_source-how-to-use">Desafios</a> |
+  <a href="#dart-Desarios">Desafios</a> |
   <a href="#information_source-how-to-use">Deploy</a> |
   <a href="#memo-license">Licença</a>
 </p>
@@ -30,7 +30,7 @@
 - **HTML**
 - **SCSS**
 
-# 🎯Desafios
+# :dart: Desafios
 - Aprender lidar com layout de páginas responsivas.
 - Utilização de tags HTML de forma semântica para Search Engine Optimization (SEO).
 - Fazer a build do SCSS para CSS.
