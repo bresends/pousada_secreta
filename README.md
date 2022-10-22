@@ -20,14 +20,22 @@
 
 
 # 🛠️Stack utilizada
-
 - **HTML**
 - **SCSS**
+
+# 🎯Desafios
+- Aprender lidar com layout de páginas responsivas.
+- Utilização de tags HTML de forma semântica para Search Engine Optimization (SEO).
+- Fazer a build do SCSS para CSS.
+- Controlar o tamanho de imagens em diferentes tamanhos de tela.
+- Lidar com Iframes (para incorporação do Google Maps na página). 
+- Fazer deploy de uma página para o Github Pages.
 
 # 🚀Deploy
 
 ## Github Pages
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" height="100" alt="Github Icon">
+https://bresends.github.io/pousada_secreta/
 
 # :memo: Licença
 Esse projeto está sob a ***MIT license***. Veja [LICENÇA](https://github.com/bresends/pousada_secreta/blob/main/License.md) para mais informações.
