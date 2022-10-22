@@ -34,7 +34,7 @@
 # 🚀Deploy
 ### Github Pages
 <a href="https://bresends.github.io/pousada_secreta">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50" alt="Github Icon" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50" alt="Github Icon">
 </a>
 
 [Veja a demo ao vivo](https://bresends.github.io/pousada_secreta/index.html)
