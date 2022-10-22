@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <a href="#🛠Stack-utilizada">Stack</a> |
+  <a href="#hammer_and_wrench-Stack">Stack</a> |
   <a href="#information_source-how-to-use">Desafios</a> |
   <a href="#information_source-how-to-use">Deploy</a> |
   <a href="#memo-license">Licença</a>
 </p>
 
 
-# 🛠️Stack utilizada
+# :hammer_and_wrench: Stack
 - **HTML**
 - **SCSS**
 
