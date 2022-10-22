@@ -39,9 +39,12 @@
 
 [Veja a demo ao vivo](https://bresends.github.io/pousada_secreta/index.html)
 
-# :memo: Licença
+# 📑 Licença
 Esse projeto está sob a ***MIT license***. Veja [LICENÇA](https://github.com/bresends/pousada_secreta/blob/main/License.md) para mais informações.
 
 ---
-  
-Feito por Bruno Resende @Devisio :wave: [Entre em contato!](https://www.linkedin.com/in/bresends/)
+
+<p align="center">
+  <span>Feito por Bruno Resende @Devisio </span>
+  <a href="https://www.linkedin.com/in/bresends/"> :wave: Entre em contato!</a>
+</p>
