@@ -32,14 +32,16 @@
 - Fazer deploy de uma página para o Github Pages.
 
 # 🚀Deploy
+### Github Pages
+<a href="https://bresends.github.io/pousada_secreta">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50" alt="Github Icon">
+</a>
 
-## Github Pages
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" height="100" alt="Github Icon">
-https://bresends.github.io/pousada_secreta/
+[Veja a demo ao vivo](https://bresends.github.io/pousada_secreta/index.html)
 
 # :memo: Licença
 Esse projeto está sob a ***MIT license***. Veja [LICENÇA](https://github.com/bresends/pousada_secreta/blob/main/License.md) para mais informações.
 
 ---
-
+  
 Feito por Bruno Resende @Devisio :wave: [Entre em contato!](https://www.linkedin.com/in/bresends/)
