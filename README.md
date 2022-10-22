@@ -22,7 +22,7 @@
   <a href="#hammer_and_wrench-Stack">Stack</a> |
   <a href="#dart-Desafios">Desafios</a> |
   <a href="#rocket-Deploy">Deploy</a> |
-  <a href="#memo-license">Licença</a>
+  <a href="#bookmark_tabs-Licença">Licença</a>
 </p>
 
 
@@ -46,7 +46,7 @@
 
 [Veja a demo ao vivo](https://bresends.github.io/pousada_secreta/index.html)
 
-# 📑 Licença
+# :bookmark_tabs: Licença
 Esse projeto está sob a ***MIT license***. Veja [LICENÇA](https://github.com/bresends/pousada_secreta/blob/main/License.md) para mais informações.
 
 ---
