@@ -21,7 +21,7 @@
 <p align="center">
   <a href="#hammer_and_wrench-Stack">Stack</a> |
   <a href="#dart-Desafios">Desafios</a> |
-  <a href="#information_source-how-to-use">Deploy</a> |
+  <a href="#rocket-Deploy">Deploy</a> |
   <a href="#memo-license">Licença</a>
 </p>
 
@@ -38,7 +38,7 @@
 - Lidar com Iframes (para incorporação do Google Maps na página). 
 - Fazer deploy de uma página para o Github Pages.
 
-# 🚀Deploy
+# :rocket: Deploy
 ### Github Pages
 <a href="https://bresends.github.io/pousada_secreta">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50" alt="Github Icon">
