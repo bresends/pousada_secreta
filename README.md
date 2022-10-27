@@ -18,7 +18,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/bresends/pousada_secreta">
 </p>
 
-![Demo](https://im4.ezgif.com/tmp/ezgif-4-267769476d.gif)
+![Demo](https://i.imgur.com/yX0pHXt.gif)
 
 <p align="center">
   <a href="#hammer_and_wrench-Stack">Stack</a> |
