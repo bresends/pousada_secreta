@@ -21,10 +21,10 @@
 ![Demo](https://i.imgur.com/yX0pHXt.gif)
 
 <p align="center">
-  <a href="#hammer_and_wrench-Stack">Stack</a> |
-  <a href="#dart-Desafios">Desafios</a> |
-  <a href="#rocket-Deploy">Deploy</a> |
-  <a href="#bookmark_tabs-Licença">Licença</a>
+  <a href="#hammer_and_wrench-Stack">:hammer_and_wrench: <strong>Stack</strong> </a> |
+  <a href="#dart-Desafios">:dart:<strong>Desafios</strong></a> |
+  <a href="#rocket-Deploy">:rocket:<strong>Deploy</strong></a> |
+  <a href="#bookmark_tabs-Licença">:bookmark_tabs:<strong>Licença</strong></a>
 </p>
 
 
